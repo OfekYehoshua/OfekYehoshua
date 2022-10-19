@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="20%" height="20%"/>
-</div>
-
 <h1>hello there! my name is Ofek yehoshua<h1>
 
 ### :man_technologist: About Me :
@@ -14,10 +10,8 @@
 
 - :zap: i've just finished bootCamp course at CyberPro Israel.
 
-- :mailbox:How to reach me: <div class="badge-base LI-profile-badge" 
-  data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ofek-yehoshua"
-  data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/ofek-yehoshua?trk=profile-badge">Ofek Yehoshua</a></div>
-              
+- :mailbox:How to reach me:
+  Email: yehoshoaofek@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
